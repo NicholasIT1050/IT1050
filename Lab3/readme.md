@@ -61,7 +61,7 @@ They are similar in that they only act if the conditions are met. The difference
                 int counter3 = 10;
                 while (counter3<=20)
                 {
-                    Console.WriteLine("counter3");
+                    Console.WriteLine(counter3);
                     counter3 = counter3 + 1;
                 }
             
