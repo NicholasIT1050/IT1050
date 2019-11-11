@@ -5,6 +5,10 @@ They are similar in that they only act if the conditions are met. The difference
 ### Everything else
 using System;
 
+
+
+
+
 namespace Lab3
 {
     class Program
